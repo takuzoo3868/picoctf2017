@@ -1,6 +1,5 @@
-[](
-  This markdown file is writeup template.
-)
+<!-- This markdown file is writeup template. -->
+
 ## Leaf of the Forest 30pt
 
 ### Problem

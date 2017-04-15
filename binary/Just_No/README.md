@@ -1,6 +1,5 @@
-[](
-  This markdown file is writeup template.
-)
+<!-- This markdown file is writeup template. -->
+
 ## Just No 40pt
 
 ### Problem

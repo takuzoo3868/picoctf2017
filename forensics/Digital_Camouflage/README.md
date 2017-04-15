@@ -1,3 +1,5 @@
+<!-- This markdown file is writeup template. -->
+
 ## Digital Camouflage 50pt
 
 ### Problem
