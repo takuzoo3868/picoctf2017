@@ -19,8 +19,7 @@ $ /problems/45f3b0abcf176b7cf7c1536b28d05d72/raw2hex
 The flag is:�v�\�h�3�-��
                           �
 ```
-Using `cut`&`xxd` command, Extracts the string (remove `The flag is:`) and converts it to a hex.  
-
+Dangit! Using `cut`&`xxd` command, Extracts the string (remove `The flag is:`) and converts it to a hex. 
 
 ```bash
 $ /problems/45f3b0abcf176b7cf7c1536b28d05d72/raw2hex  | cut -d ':' -f2 | xxd -plain
