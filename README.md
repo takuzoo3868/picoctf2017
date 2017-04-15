@@ -28,9 +28,13 @@ This repository serves as a writeup for PicoCTF_2017
     - [Piazza_10](miscellanous/Piazza)
     - [WorldChat_30](miscellanous/WorldChat)
     - [Looooong_20](miscellanous/looooong)
+    - [Yarn_55](miscellanous/Yarn)
 
 * **Reverse Engineering**
+    - [Hex2Raw_20](reverse/Hex2Raw)
+    - [Raw2Hex_20](reverse/Raw2Hex)
 
 * **Web Exploitation**
     - [What-Is-Web_20](web/What_Is_Web)
+    - [My-First-SQL_50](web/My_First_SQL)
 
