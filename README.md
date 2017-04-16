@@ -29,6 +29,7 @@ This repository serves as a writeup for PicoCTF_2017
     - [WorldChat_30](miscellanous/WorldChat)
     - [Looooong_20](miscellanous/looooong)
     - [Yarn_55](miscellanous/Yarn)
+    - [Mystery-Box_60](miscellanous/Mystery_Box)
 
 * **Reverse Engineering**
     - [Hex2Raw_20](reverse/Hex2Raw)
