@@ -22,7 +22,7 @@ Ringstellung: LOG
 Steckerbrett: G-L, H-F
 ```
 
-![shot01](MysterBox.png)  
+![shot01](MysteryBox.png)  
 
 Aha, `Geheimnis` is German. The box seems to be a Enigma machine.  
 Let's decrypt it using [Enigma Machine Emulator](http://enigma.louisedade.co.uk/enigma.html).  
