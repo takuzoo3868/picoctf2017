@@ -5,6 +5,7 @@ This repository serves as a writeup for PicoCTF_2017
 ## Completed Challenges
 * **Master**
     - [Lazy-Dev_50](master/Lazy_Dev)
+    - [Missing-Identity_100](master/Missing_Identity)
 
 * **Binary Exploitation**
     - [Bash-Loop_40](binary/Bash_Loop)
