@@ -21,6 +21,7 @@ This repository serves as a writeup for PicoCTF_2017
 * **Forensics**
     - [Digital-Camouflage_50](forensics/Digital_Camouflage)
     - [Special-Agent-User_50](forensics/Special_Agent_User)
+    - [Meta-Find-Me_70](forensics/Meta_Find_Me)
 
 * **Miscellanous**
     - [Internet-Kitties_10](miscellanous/Internet_Kitties)
