@@ -21,7 +21,7 @@ Comment                         : "Your flag is flag_2_meta_4_me_<lat>_<lon>_1c1
 GPS Position                    : 7 deg 0' 0.00", 96 deg 0' 0.00"
 ```
 
-Yay! Replace `<lat>` to GPS Latitude value and `<lon>` to GPS Longitude one. 
+Yay! Replace `<lat>` with GPS Latitude `7` and `<lon>` with GPS Longitude `96`. 
 
 ### Flag
 flag_2_meta_4_me_7_96_1c1f
